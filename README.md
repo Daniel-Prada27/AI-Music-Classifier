@@ -7,6 +7,6 @@
 
 **Link Dataset: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification**
 
-**Modelos: Random Forest CLassifier (RFC), Red neuronal Convolucional (CNN), Red Neuronal Densa (DNN), K-Means, Aglomerative CLustering, DBSCAN, PCA**
+**Modelos: Random Forest Classifier (RFC), Red Neuronal Convolucional (CNN), Red Neuronal Densa (DNN), K-Means, Aglomerative Clustering, DBSCAN, PCA**
 
 **Link Código Collab: https://colab.research.google.com/drive/1f4dvYPX-6N7JBL8P265cbvbxyBJIuGsf?usp=sharing**
