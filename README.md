@@ -1,12 +1,38 @@
 # AI-Music-Classifier
-![Banner_IA](https://github.com/user-attachments/assets/b276ca2d-f795-42eb-a1b1-d228fb7767c8)
+![Banner_IA](https://github.com/user-attachments/assets/c518bc52-3667-4459-9188-244144062b4a)
 
 # Autores: Daniel Prada, Valentina Pérez, Daniel Rueda
 
-**Objetivo: Clasificar Canciones según su genero musical basado en características de sus espectrogramas**
+---
 
-**Link Dataset: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification**
+## 🎯 Objetivo
 
-**Modelos: Random Forest Classifier (RFC), Red Neuronal Convolucional (CNN), Red Neuronal Densa (DNN), K-Means, Aglomerative Clustering, DBSCAN, PCA**
+Clasificar canciones en su género correspondiente según su información estructural, de frecuencias, temporal, rítmica, tonal y melódica.
 
-**Link Código Collab: https://colab.research.google.com/drive/1f4dvYPX-6N7JBL8P265cbvbxyBJIuGsf?usp=sharing**
+---
+
+## 📂 Dataset
+
+
+[🔗 Descargar dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
+
+---
+
+## 🧠 Modelos
+
+### Supervisados
+- Random Forest Classifier
+- Convolutional Neural Network
+- Dense Neural Network
+
+### No Supervisados (Uso de PCA)
+- K-Means
+- Agglomerative Clustering
+- Density-Based Spatial Clustering
+---
+
+## 🔗 Enlaces Útiles
+
+- [📁 Código fuente](https://colab.research.google.com/drive/1f4dvYPX-6N7JBL8P265cbvbxyBJIuGsf?usp=sharing)
+- [🎥 Video explicativo](Link_Video)
+- [📦 Repositorio del proyecto]([https://github.com/usuario/repositorio](https://github.com/Daniel-Prada27/AI-Music-Classifier))
