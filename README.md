@@ -1,7 +1,7 @@
 # AI-Music-Classifier
 ![Banner_IA](https://github.com/user-attachments/assets/b276ca2d-f795-42eb-a1b1-d228fb7767c8)
 
-# Autores: Daniel Prada - Valentina Pérez - Daniel Rueda
+# Autores: Daniel Prada, Valentina Pérez, Daniel Rueda
 
 **Objetivo: Clasificar Canciones según su genero musical basado en características de sus espectrogramas**
 
