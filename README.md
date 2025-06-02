@@ -3,7 +3,7 @@
 
 # Autores: Daniel Prada - Valentina Pérez - Daniel Rueda
 
-**Objetivo: **
+**Objetivo: Clasificar Canciones según su genero musical basado en características de sus espectrogramas**
 
 **Link Dataset: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification**
 
