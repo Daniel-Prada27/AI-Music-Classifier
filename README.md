@@ -34,5 +34,5 @@ Clasificar canciones en su género correspondiente según su información estruc
 ## 🔗 Enlaces Útiles
 
 - [📁 Código fuente](https://colab.research.google.com/drive/1f4dvYPX-6N7JBL8P265cbvbxyBJIuGsf?usp=sharing)
-- [🎥 Video explicativo](Link_Video)
+- [🎥 Video explicativo](https://youtu.be/TNGvJcxEDEE)
 - [📦 Repositorio del proyecto]([https://github.com/usuario/repositorio](https://github.com/Daniel-Prada27/AI-Music-Classifier))
